@@ -1,7 +1,10 @@
+html {
+  margin: 1.5rem;
+}
+
 body {
   background: #eee9de;
   line-height: 1.5;
-  margin: 1.5rem;
 }
 
 h2 {
@@ -11,7 +14,6 @@ h2 {
 p {
   font-family: Lato, regular;
   text-align: left;
-  display: inline-block;
   max-width: 25em;
 }
 
@@ -27,5 +29,6 @@ p {
 
 img {
   vertical-align: middle;
-  width: auto;
+  width: .4em .75em .5em;
+  display: inline-block;
 }
