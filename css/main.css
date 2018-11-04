@@ -21,14 +21,14 @@ p {
   border: 3px solid #333;
   color: #666;
   border-radius: 5px;
-  padding: .4em .1em .2em;
+  padding: .1em .2em;
   background: #eee9de;
   text-align: center;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 img {
   vertical-align: middle;
-  width: .75em .5em;
+  width: 100%
   display: inline-block;
 }
