@@ -20,6 +20,7 @@ p {
   font-family: Lato, regular;
   text-align: left;
   max-width: 25em;
+  display: inline-block
 }
 
 .btn {
@@ -35,5 +36,5 @@ p {
 img {
   vertical-align: middle;
   width: 100%;
-  display: inline-block;
+  display: block;
 }
