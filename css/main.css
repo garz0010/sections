@@ -9,7 +9,7 @@ html {
 body {
   background: #eee9de;
   line-height: 1.5;
-  margin: 1.5rem;
+  margin: 0;
 }
 
 h2 {
@@ -20,7 +20,8 @@ p {
   font-family: Lato, regular;
   text-align: left;
   max-width: 25em;
-  display: inline-block
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .btn {
@@ -34,7 +35,6 @@ p {
 }
 
 img {
-  vertical-align: middle;
   width: 100%;
   display: block;
 }
