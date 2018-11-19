@@ -1,5 +1,7 @@
 html {
   box-sizing: border-box;
+  background: #eee9de;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -7,8 +9,6 @@ html {
 }
 
 body {
-  background: #eee9de;
-  line-height: 1.5;
   margin: 0;
 }
 
