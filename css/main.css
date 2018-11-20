@@ -2,6 +2,7 @@ html {
   box-sizing: border-box;
   background: #eee9de;
   line-height: 1.5;
+  font-family: Lato, regular;
 }
 
 *, *::before, *::after {
@@ -22,7 +23,6 @@ h2 {
 }
 
 p {
-  font-family: Lato, regular;
   text-align: left;
   max-width: 25em;
   display: inline-block;
@@ -42,4 +42,3 @@ p {
 img {
   width: 100%;
   display: block;
-  list-style-type:
