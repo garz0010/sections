@@ -13,7 +13,7 @@ body {
   margin: 0;
 }
 
-div {
+.box-wrap {
   max-width: 25em;
   width: auto;
 }
