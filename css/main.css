@@ -16,6 +16,7 @@ body {
 .box-wrap {
   max-width: 25em;
   width: 100%;
+  padding: 0 2em;
 }
 
 section {
