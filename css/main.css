@@ -14,9 +14,25 @@ body {
 }
 
 .box-wrap {
-  max-width: 25em;
-  width: 100%;
   padding: 2em 0;
+  margin: 0;
+  vertical-align: middle;
+  text-align: center;
+
+}
+
+.box-image,
+.content {
+  display: inline-block;
+  width: 100%;
+  max-width: 25em;
+  padding: 1em;
+  vertical-align: middle;
+}
+
+.content {
+  text-align: left;
+
 }
 
 section {
@@ -26,16 +42,13 @@ section {
 
 h2 {
   font-family: Lato, bold;
-  padding: 0 1em;
   margin: 0;
 }
 
 p {
   text-align: left;
   display: inline-block;
-  vertical-align: middle;
   margin: 0;
-  padding: 1em;
 }
 
 .btn {
@@ -46,11 +59,10 @@ p {
   background: #eee9de;
   text-align: center;
   font-size: 1.2rem;
-  margin: 1.5em;
+  margin: 1.5em 0;
 }
 
 img {
   width: 100%;
   display: block;
-  padding: 1em;
 }
